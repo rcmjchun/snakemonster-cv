@@ -1,2 +1,2 @@
 # snakemonster-cv
-Computer vision for snake monster robot 
+Computer vision for CMU Biorobotics Snake Monster
