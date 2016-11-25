@@ -1,2 +1,9 @@
-# snakemonster-cv
-Computer vision for CMU Biorobotics Snake Monster
+# Snake Robot Vision
+
+
+# Getting Started
+
+
+# Installation Guide
+
+
